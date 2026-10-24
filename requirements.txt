@@ -1,0 +1,15 @@
+# Nucleo
+numpy>=1.26
+pandas>=2.1
+scikit-learn>=1.4
+
+# LSTM Autoencoder
+# No Colab, o torch ja vem instalado com suporte a GPU — nao reinstalar la.
+torch>=2.2
+
+# Graficos
+matplotlib>=3.8
+
+# Qualidade (opcional, apenas em desenvolvimento local)
+pytest>=8.0
+ruff>=0.3
