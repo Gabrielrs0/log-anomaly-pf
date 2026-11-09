@@ -1,0 +1,27 @@
+type,n_blocks,distinctive_events,has_distinctive_event,has_length_signal,out_of_range_fraction,n_violations,n_artifacts,confirmed_violations,has_confirmed_violation,classification
+0,2809,E6;E16;E18;E25,True,False,0.0,1,0,E21/E23,True,ambos os sinais
+1,953,E27,True,False,0.0,0,0,,False,nao-sequencial
+3,2950,,False,True,1.0,0,0,,False,nao-sequencial
+4,1240,E28,True,False,0.0,0,0,,False,nao-sequencial
+5,4167,E20,True,False,0.0,0,0,,False,nao-sequencial
+7,476,E13,True,False,0.0,0,0,,False,nao-sequencial
+8,45,E6;E16;E18;E25;E29,True,False,0.0,1,0,E21/E23,True,ambos os sinais
+9,34,E6;E7;E8;E10;E12;E14;E15;E16;E18;E25,True,False,0.0,0,0,,False,nao-sequencial
+10,3,E6;E16;E18;E25,True,False,0.0,0,0,,False,indeterminado
+11,3,E7;E8;E10;E14,True,False,0.6666666666666666,0,0,,False,indeterminado
+12,130,E20,True,False,0.0,0,0,,False,nao-sequencial
+13,10,E7;E8;E10;E14,True,False,0.0,0,0,,False,nao-sequencial
+16,22,E7;E10;E14,True,False,0.7272727272727273,0,0,,False,nao-sequencial
+17,3,E1;E10;E15,True,False,0.0,0,0,,False,indeterminado
+18,9,E6;E16;E18;E25,True,False,0.0,0,0,,False,indeterminado
+19,8,E6;E16;E18;E25,True,False,0.0,1,0,E21/E23,True,indeterminado
+20,7,E7;E17;E18;E25,True,False,0.0,0,0,,False,indeterminado
+21,724,E20,True,False,0.0,0,0,,False,nao-sequencial
+22,9,E18;E25,True,False,0.0,0,0,,False,indeterminado
+23,1,E6;E7;E16;E18;E25,True,False,0.0,0,0,,False,indeterminado
+24,3,E6;E16;E18;E25,True,False,0.0,0,0,,False,indeterminado
+25,2,E6;E16;E18;E24;E25,True,False,0.0,0,0,,False,indeterminado
+27,3,E6;E16;E18;E20;E25,True,False,0.0,0,0,,False,indeterminado
+28,1,E1;E10;E19,True,False,0.0,0,0,,False,indeterminado
+30,1,E20,True,False,0.0,0,0,,False,indeterminado
+31,3225,E7,True,True,1.0,0,0,,False,nao-sequencial
